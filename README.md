@@ -8,9 +8,19 @@ EntertainmentHub is a versatile ASP.NET Core MVC application designed to serve a
 - **Comprehensive Details:** Dive into detailed information about each game, including descriptions, categories, and compatible devices.
 - **Flexible Categorization:** Organize games into customizable categories for easy navigation.
 - **Multi-Device Support:** Explore games compatible with a wide range of devices, ensuring compatibility with your preferred platform.
-- **Responsive Design:** Enjoy a seamless experience across desktops, tablets, and mobile devices.
-- **Robust Architecture:** Built on ASP.NET Core MVC with dependency injection for extensibility and maintainability.
-- **Secure:** Utilizes built-in ASP.NET Core security features for protecting user data and preventing unauthorized access.
+
+## Technologies Used
+
+- **ASP.NET Core MVC:** A powerful framework for building web applications using the Model-View-Controller architectural pattern.
+- **C#:** A versatile programming language used for developing backend logic in the ASP.NET Core MVC application.
+- **Entity Framework Core:** An object-relational mapping (ORM) framework for interacting with databases in ASP.NET Core applications.
+- **HTML/CSS/JavaScript:** Frontend technologies used for designing and enhancing the user interface of the application.
+- **Razor Pages:** A server-side markup language used in ASP.NET Core MVC for creating dynamic web pages.
+- **Bootstrap:** A popular CSS framework for building responsive and mobile-first web projects.
+- **Git:** A distributed version control system used for tracking changes in the project and collaborating with other developers.
+- **GitHub:** A web-based platform for hosting and managing Git repositories, facilitating collaboration and version control.
+- **Visual Studio:** An integrated development environment (IDE) used for coding, debugging, and deploying ASP.NET Core MVC applications.
+- **Dependency Injection:** A design pattern and built-in feature of ASP.NET Core used for managing dependencies and promoting loose coupling.
 
 ## Getting Started
 
