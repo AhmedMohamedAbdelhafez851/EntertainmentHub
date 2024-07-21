@@ -1,6 +1,6 @@
-# EntertainmentHub
+# GameZone
 
-EntertainmentHub is a ASP.NET Core MVC application designed for managing and exploring various entertainment options. Whether you're into gaming, Devices, Categories, EntertainmentHub provides a seamless platform for discovering, organizing, and engaging with your favorite pastimes.
+GameZone is a ASP.NET Core MVC application designed for managing and exploring various Gamees. Whether you're into gaming, Devices, Categories, GameZone provides a seamless platform for discovering, organizing, and engaging with your favorite pastimes.
 
 ## Key Features
 
@@ -30,7 +30,4 @@ To get started with EntertainmentHub, follow these steps:
 4. Build and run the project.
 5. Start exploring the world of entertainment with EntertainmentHub!
 
-## Contributing
-
-Contributions to EntertainmentHub are welcome! Whether you're a developer, designer, or enthusiast, you can contribute to the project by submitting bug reports, feature requests, or pull requests. Together, we can make EntertainmentHub the ultimate destination for entertainment enthusiasts worldwide.
 
