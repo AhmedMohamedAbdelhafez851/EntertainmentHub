@@ -1,13 +1,11 @@
 # EntertainmentHub
 
-EntertainmentHub is a versatile ASP.NET Core MVC application designed to serve as a centralized hub for managing and exploring various entertainment options. Whether you're into gaming, movies, music, or other leisure activities, EntertainmentHub provides a seamless platform for discovering, organizing, and engaging with your favorite pastimes.
+EntertainmentHub is a ASP.NET Core MVC application designed for managing and exploring various entertainment options. Whether you're into gaming, Devices, Categories, EntertainmentHub provides a seamless platform for discovering, organizing, and engaging with your favorite pastimes.
 
 ## Key Features
 
 - **Game Management:** Easily browse, add, edit, and delete games with an intuitive user interface.
 - **Comprehensive Details:** Dive into detailed information about each game, including descriptions, categories, and compatible devices.
-- **Flexible Categorization:** Organize games into customizable categories for easy navigation.
-- **Multi-Device Support:** Explore games compatible with a wide range of devices, ensuring compatibility with your preferred platform.
 
 ## Technologies Used
 
@@ -35,10 +33,4 @@ To get started with EntertainmentHub, follow these steps:
 ## Contributing
 
 Contributions to EntertainmentHub are welcome! Whether you're a developer, designer, or enthusiast, you can contribute to the project by submitting bug reports, feature requests, or pull requests. Together, we can make EntertainmentHub the ultimate destination for entertainment enthusiasts worldwide.
-
-
-
-## Contact
-
-For questions, suggestions, or feedback, feel free to reach out to the project maintainers through GitHub Issues or via email at ahmedmhafez851@gmail.com.
 
