@@ -11,7 +11,7 @@ public class GameFormViewModel
     public IEnumerable<SelectListItem> Categories { get; set; } = Enumerable.Empty<SelectListItem>();
 
     [Display(Name = "Supported Devices")]
-    public List<int> SelectedDevices { get; set; } = default!;
+    public List<int> SelectedDevices { get; set; } = default!;  
 
     public IEnumerable<SelectListItem> Devices { get; set; } = Enumerable.Empty<SelectListItem>();
 
